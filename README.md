@@ -1,5 +1,8 @@
 # My PowerShell custom setup using Windows Terminal
 
+PowerShell version used while configuration:\
+![powershell version](./img/version.png)
+
 Links:\
 :arrow_forward: [PowerLine in PowerShell](https://docs.microsoft.com/en-us/windows/terminal/custom-terminal-gallery/powerline-in-powershell)\
 :arrow_forward: [Prompt Setup](https://docs.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup)\
